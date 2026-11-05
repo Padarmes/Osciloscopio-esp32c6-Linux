@@ -83,7 +83,7 @@ static bool adc_activo = false;
 // 3. CONFIGURACION SPI PARA RASPBERRY PI
 // =====================================================
 
-/*
+
    RESERVA PARA IMPLEMENTACION FUTURA.
 
    Raspberry Pi: MAESTRO SPI
@@ -107,7 +107,7 @@ static bool adc_activo = false;
    osc_spi_enviar_ventana()
 
    No se inicializa SPI en esta version.
-*/
+
 
 // =====================================================
 // 4. CONFIGURACION DE FRECUENCIA

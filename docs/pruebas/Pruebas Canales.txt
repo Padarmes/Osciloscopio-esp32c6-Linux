@@ -1,0 +1,2430 @@
+I (728) OSCILOSCOPIO: Muestra 01 | CH1: 80 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 02 | CH1: 81 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 03 | CH1: 80 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 04 | CH1: 65 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 05 | CH1: 65 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 06 | CH1: 65 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 07 | CH1: 64 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 08 | CH1: 65 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 09 | CH1: 81 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 10 | CH1: 64 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 11 | CH1: 81 | CH2: 80
+I (728) OSCILOSCOPIO: Muestra 12 | CH1: 64 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 13 | CH1: 80 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 14 | CH1: 64 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 15 | CH1: 65 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 16 | CH1: 80 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 17 | CH1: 80 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 18 | CH1: 65 | CH2: 65
+I (728) OSCILOSCOPIO: Muestra 19 | CH1: 65 | CH2: 64
+I (728) OSCILOSCOPIO: Muestra 20 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 21 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 22 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 23 | CH1: 81 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 24 | CH1: 64 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 25 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 26 | CH1: 81 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 27 | CH1: 64 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 28 | CH1: 65 | CH2: 80
+I (738) OSCILOSCOPIO: Muestra 29 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 30 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 31 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 32 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 33 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 34 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 35 | CH1: 64 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 36 | CH1: 81 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 37 | CH1: 65 | CH2: 80
+I (738) OSCILOSCOPIO: Muestra 38 | CH1: 64 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 39 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 40 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 41 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 42 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 43 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 44 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 45 | CH1: 64 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 46 | CH1: 65 | CH2: 81
+I (738) OSCILOSCOPIO: Muestra 47 | CH1: 64 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 48 | CH1: 80 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 49 | CH1: 81 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 50 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 51 | CH1: 81 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 52 | CH1: 64 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 53 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 54 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 55 | CH1: 64 | CH2: 80
+I (738) OSCILOSCOPIO: Muestra 56 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 57 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 58 | CH1: 65 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 59 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 60 | CH1: 65 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 61 | CH1: 80 | CH2: 64
+I (738) OSCILOSCOPIO: Muestra 62 | CH1: 64 | CH2: 65
+I (738) OSCILOSCOPIO: Muestra 63 | CH1: 81 | CH2: 80
+I (738) OSCILOSCOPIO: Muestra 64 | CH1: 80 | CH2: 65
+I (738) OSCILOSCOPIO: FIN VENTANA ADC
+I (1868) OSCILOSCOPIO: ================================
+I (1868) OSCILOSCOPIO: ID ventana: 2
+I (1868) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (1878) OSCILOSCOPIO: Captura CH1: 64/64
+I (1878) OSCILOSCOPIO: Captura CH2: 64/64
+I (1878) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (1878) OSCILOSCOPIO: Tiempo total de ventana: 639629 us
+I (1878) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (1878) OSCILOSCOPIO: Error estimado: 0.06 %
+I (1878) OSCILOSCOPIO: Errores de lectura: 0
+I (1878) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (1878) OSCILOSCOPIO: Ultima muestra CH2: 0.046 V
+I (1878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (3008) OSCILOSCOPIO: ================================
+I (3008) OSCILOSCOPIO: ID ventana: 3
+I (3008) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (3018) OSCILOSCOPIO: Captura CH1: 64/64
+I (3018) OSCILOSCOPIO: Captura CH2: 64/64
+I (3018) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (3018) OSCILOSCOPIO: Tiempo total de ventana: 639626 us
+I (3018) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (3018) OSCILOSCOPIO: Error estimado: 0.06 %
+I (3018) OSCILOSCOPIO: Errores de lectura: 0
+I (3018) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (3018) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (3018) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (4148) OSCILOSCOPIO: ================================
+I (4148) OSCILOSCOPIO: ID ventana: 4
+I (4148) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (4158) OSCILOSCOPIO: Captura CH1: 64/64
+I (4158) OSCILOSCOPIO: Captura CH2: 64/64
+I (4158) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (4158) OSCILOSCOPIO: Tiempo total de ventana: 639626 us
+I (4158) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (4158) OSCILOSCOPIO: Error estimado: 0.06 %
+I (4158) OSCILOSCOPIO: Errores de lectura: 0
+I (4158) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (4158) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (4158) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (5288) OSCILOSCOPIO: ================================
+I (5288) OSCILOSCOPIO: ID ventana: 5
+I (5288) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (5298) OSCILOSCOPIO: Captura CH1: 64/64
+I (5298) OSCILOSCOPIO: Captura CH2: 64/64
+I (5298) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (5298) OSCILOSCOPIO: Tiempo total de ventana: 639626 us
+I (5298) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (5298) OSCILOSCOPIO: Error estimado: 0.06 %
+I (5298) OSCILOSCOPIO: Errores de lectura: 0
+I (5298) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (5298) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (5298) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (6428) OSCILOSCOPIO: ================================
+I (6428) OSCILOSCOPIO: ID ventana: 6
+I (6428) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (6438) OSCILOSCOPIO: Captura CH1: 64/64
+I (6438) OSCILOSCOPIO: Captura CH2: 64/64
+I (6438) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (6438) OSCILOSCOPIO: Tiempo total de ventana: 639626 us
+I (6438) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (6438) OSCILOSCOPIO: Error estimado: 0.06 %
+I (6438) OSCILOSCOPIO: Errores de lectura: 0
+I (6438) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (6438) OSCILOSCOPIO: Ultima muestra CH2: 0.046 V
+I (6438) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (7568) OSCILOSCOPIO: ================================
+I (7568) OSCILOSCOPIO: ID ventana: 7
+I (7568) OSCILOSCOPIO: Frecuencia configurada: 100 Sa/s
+I (7578) OSCILOSCOPIO: Captura CH1: 64/64
+I (7578) OSCILOSCOPIO: Captura CH2: 64/64
+I (7578) OSCILOSCOPIO: Periodo objetivo: 10000 us
+I (7578) OSCILOSCOPIO: Tiempo total de ventana: 639626 us
+I (7578) OSCILOSCOPIO: Frecuencia efectiva estimada: 100.06 Sa/s
+I (7578) OSCILOSCOPIO: Error estimado: 0.06 %
+I (7578) OSCILOSCOPIO: Errores de lectura: 0
+I (7578) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (7578) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (7578) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (8078) OSCILOSCOPIO: Frecuencia seleccionada: 1000 Sa/s
+I (8078) OSCILOSCOPIO: Frecuencia ADC agregada: 2000 Sa/s
+I (8078) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (8138) OSCILOSCOPIO: ================================
+I (8138) OSCILOSCOPIO: ID ventana: 8
+I (8138) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (8138) OSCILOSCOPIO: Captura CH1: 64/64
+I (8138) OSCILOSCOPIO: Captura CH2: 64/64
+I (8138) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (8138) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (8138) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (8138) OSCILOSCOPIO: Error estimado: 0.19 %
+I (8138) OSCILOSCOPIO: Errores de lectura: 0
+I (8138) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (8138) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (8138) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (8138) OSCILOSCOPIO: INICIO VENTANA ADC
+I (8138) OSCILOSCOPIO: Muestra 01 | CH1: 64 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 02 | CH1: 65 | CH2: 80
+I (8138) OSCILOSCOPIO: Muestra 03 | CH1: 81 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 04 | CH1: 64 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 05 | CH1: 81 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 06 | CH1: 65 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 07 | CH1: 65 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 08 | CH1: 65 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 09 | CH1: 65 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 10 | CH1: 80 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 11 | CH1: 64 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 12 | CH1: 64 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 13 | CH1: 65 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 14 | CH1: 65 | CH2: 65
+I (8138) OSCILOSCOPIO: Muestra 15 | CH1: 64 | CH2: 64
+I (8138) OSCILOSCOPIO: Muestra 16 | CH1: 64 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 17 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 18 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 19 | CH1: 81 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 20 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 21 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 22 | CH1: 81 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 23 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 24 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 25 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 26 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 27 | CH1: 65 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 28 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 29 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 30 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 31 | CH1: 65 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 32 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 33 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 34 | CH1: 81 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 35 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 36 | CH1: 81 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 37 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 38 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 39 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 40 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 41 | CH1: 64 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 42 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 43 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 44 | CH1: 65 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 45 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 46 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 47 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 48 | CH1: 64 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 49 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 50 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 51 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 52 | CH1: 80 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 53 | CH1: 80 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 54 | CH1: 64 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 55 | CH1: 65 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 56 | CH1: 81 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 57 | CH1: 80 | CH2: 80
+I (8148) OSCILOSCOPIO: Muestra 58 | CH1: 65 | CH2: 64
+I (8148) OSCILOSCOPIO: Muestra 59 | CH1: 65 | CH2: 65
+I (8148) OSCILOSCOPIO: Muestra 60 | CH1: 65 | CH2: 80
+I (8148) OSCILOSCOPIO: Muestra 61 | CH1: 81 | CH2: 80
+I (8148) OSCILOSCOPIO: Muestra 62 | CH1: 65 | CH2: 65
+I (8158) OSCILOSCOPIO: Muestra 63 | CH1: 65 | CH2: 80
+I (8158) OSCILOSCOPIO: Muestra 64 | CH1: 81 | CH2: 65
+I (8158) OSCILOSCOPIO: FIN VENTANA ADC
+I (8718) OSCILOSCOPIO: ================================
+I (8718) OSCILOSCOPIO: ID ventana: 9
+I (8718) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (8718) OSCILOSCOPIO: Captura CH1: 64/64
+I (8718) OSCILOSCOPIO: Captura CH2: 64/64
+I (8718) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (8718) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (8718) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (8718) OSCILOSCOPIO: Error estimado: 0.19 %
+I (8718) OSCILOSCOPIO: Errores de lectura: 0
+I (8718) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (8718) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (8718) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (9278) OSCILOSCOPIO: ================================
+I (9278) OSCILOSCOPIO: ID ventana: 10
+I (9278) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (9278) OSCILOSCOPIO: Captura CH1: 64/64
+I (9278) OSCILOSCOPIO: Captura CH2: 64/64
+I (9278) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (9278) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (9278) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (9278) OSCILOSCOPIO: Error estimado: 0.19 %
+I (9278) OSCILOSCOPIO: Errores de lectura: 0
+I (9278) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (9278) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (9278) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (9838) OSCILOSCOPIO: ================================
+I (9838) OSCILOSCOPIO: ID ventana: 11
+I (9838) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (9838) OSCILOSCOPIO: Captura CH1: 64/64
+I (9838) OSCILOSCOPIO: Captura CH2: 64/64
+I (9838) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (9838) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (9838) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (9838) OSCILOSCOPIO: Error estimado: 0.19 %
+I (9838) OSCILOSCOPIO: Errores de lectura: 0
+I (9838) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (9838) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (9838) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (10398) OSCILOSCOPIO: ================================
+I (10398) OSCILOSCOPIO: ID ventana: 12
+I (10398) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (10398) OSCILOSCOPIO: Captura CH1: 64/64
+I (10398) OSCILOSCOPIO: Captura CH2: 64/64
+I (10398) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (10398) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (10398) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (10398) OSCILOSCOPIO: Error estimado: 0.19 %
+I (10398) OSCILOSCOPIO: Errores de lectura: 0
+I (10398) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (10398) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (10398) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (10958) OSCILOSCOPIO: ================================
+I (10958) OSCILOSCOPIO: ID ventana: 13
+I (10958) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (10958) OSCILOSCOPIO: Captura CH1: 64/64
+I (10958) OSCILOSCOPIO: Captura CH2: 64/64
+I (10958) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (10958) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (10958) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (10958) OSCILOSCOPIO: Error estimado: 0.19 %
+I (10958) OSCILOSCOPIO: Errores de lectura: 0
+I (10958) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (10958) OSCILOSCOPIO: Ultima muestra CH2: 0.046 V
+I (10958) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (11518) OSCILOSCOPIO: ================================
+I (11518) OSCILOSCOPIO: ID ventana: 14
+I (11518) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (11518) OSCILOSCOPIO: Captura CH1: 64/64
+I (11518) OSCILOSCOPIO: Captura CH2: 64/64
+I (11518) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (11518) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (11518) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (11518) OSCILOSCOPIO: Error estimado: 0.19 %
+I (11518) OSCILOSCOPIO: Errores de lectura: 0
+I (11518) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (11518) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (11518) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (12078) OSCILOSCOPIO: ================================
+I (12078) OSCILOSCOPIO: ID ventana: 15
+I (12078) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (12078) OSCILOSCOPIO: Captura CH1: 64/64
+I (12078) OSCILOSCOPIO: Captura CH2: 64/64
+I (12078) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (12078) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (12078) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (12078) OSCILOSCOPIO: Error estimado: 0.19 %
+I (12078) OSCILOSCOPIO: Errores de lectura: 0
+I (12078) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (12078) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (12078) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (12638) OSCILOSCOPIO: ================================
+I (12638) OSCILOSCOPIO: ID ventana: 16
+I (12638) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (12638) OSCILOSCOPIO: Captura CH1: 64/64
+I (12638) OSCILOSCOPIO: Captura CH2: 64/64
+I (12638) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (12638) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (12638) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (12638) OSCILOSCOPIO: Error estimado: 0.19 %
+I (12638) OSCILOSCOPIO: Errores de lectura: 0
+I (12638) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (12638) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (12638) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (13198) OSCILOSCOPIO: ================================
+I (13198) OSCILOSCOPIO: ID ventana: 17
+I (13198) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (13198) OSCILOSCOPIO: Captura CH1: 64/64
+I (13198) OSCILOSCOPIO: Captura CH2: 64/64
+I (13198) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (13198) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (13198) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (13198) OSCILOSCOPIO: Error estimado: 0.19 %
+I (13198) OSCILOSCOPIO: Errores de lectura: 0
+I (13198) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (13198) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (13198) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (13758) OSCILOSCOPIO: ================================
+I (13758) OSCILOSCOPIO: ID ventana: 18
+I (13758) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (13758) OSCILOSCOPIO: Captura CH1: 64/64
+I (13758) OSCILOSCOPIO: Captura CH2: 64/64
+I (13758) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (13758) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (13758) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (13758) OSCILOSCOPIO: Error estimado: 0.19 %
+I (13758) OSCILOSCOPIO: Errores de lectura: 0
+I (13758) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (13758) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (13758) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (14318) OSCILOSCOPIO: ================================
+I (14318) OSCILOSCOPIO: ID ventana: 19
+I (14318) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (14318) OSCILOSCOPIO: Captura CH1: 64/64
+I (14318) OSCILOSCOPIO: Captura CH2: 64/64
+I (14318) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (14318) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (14318) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (14318) OSCILOSCOPIO: Error estimado: 0.19 %
+I (14318) OSCILOSCOPIO: Errores de lectura: 0
+I (14318) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (14318) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (14318) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (14878) OSCILOSCOPIO: ================================
+I (14878) OSCILOSCOPIO: ID ventana: 20
+I (14878) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (14878) OSCILOSCOPIO: Captura CH1: 64/64
+I (14878) OSCILOSCOPIO: Captura CH2: 64/64
+I (14878) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (14878) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (14878) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (14878) OSCILOSCOPIO: Error estimado: 0.19 %
+I (14878) OSCILOSCOPIO: Errores de lectura: 0
+I (14878) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (14878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (14878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (15438) OSCILOSCOPIO: ================================
+I (15438) OSCILOSCOPIO: ID ventana: 21
+I (15438) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (15438) OSCILOSCOPIO: Captura CH1: 64/64
+I (15438) OSCILOSCOPIO: Captura CH2: 64/64
+I (15438) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (15438) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (15438) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (15438) OSCILOSCOPIO: Error estimado: 0.19 %
+I (15438) OSCILOSCOPIO: Errores de lectura: 0
+I (15438) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (15438) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (15438) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (15998) OSCILOSCOPIO: ================================
+I (15998) OSCILOSCOPIO: ID ventana: 22
+I (15998) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (15998) OSCILOSCOPIO: Captura CH1: 64/64
+I (15998) OSCILOSCOPIO: Captura CH2: 64/64
+I (15998) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (15998) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (15998) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (15998) OSCILOSCOPIO: Error estimado: 0.19 %
+I (15998) OSCILOSCOPIO: Errores de lectura: 0
+I (15998) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (15998) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (15998) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (16558) OSCILOSCOPIO: ================================
+I (16558) OSCILOSCOPIO: ID ventana: 23
+I (16558) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (16558) OSCILOSCOPIO: Captura CH1: 64/64
+I (16558) OSCILOSCOPIO: Captura CH2: 64/64
+I (16558) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (16558) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (16558) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (16558) OSCILOSCOPIO: Error estimado: 0.19 %
+I (16558) OSCILOSCOPIO: Errores de lectura: 0
+I (16558) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (16558) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (16558) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (17118) OSCILOSCOPIO: ================================
+I (17118) OSCILOSCOPIO: ID ventana: 24
+I (17118) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (17118) OSCILOSCOPIO: Captura CH1: 64/64
+I (17118) OSCILOSCOPIO: Captura CH2: 64/64
+I (17118) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (17118) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (17118) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (17118) OSCILOSCOPIO: Error estimado: 0.19 %
+I (17118) OSCILOSCOPIO: Errores de lectura: 0
+I (17118) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (17118) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (17118) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (17678) OSCILOSCOPIO: ================================
+I (17678) OSCILOSCOPIO: ID ventana: 25
+I (17678) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (17678) OSCILOSCOPIO: Captura CH1: 64/64
+I (17678) OSCILOSCOPIO: Captura CH2: 64/64
+I (17678) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (17678) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (17678) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (17678) OSCILOSCOPIO: Error estimado: 0.19 %
+I (17678) OSCILOSCOPIO: Errores de lectura: 0
+I (17678) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (17678) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (17678) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (18238) OSCILOSCOPIO: ================================
+I (18238) OSCILOSCOPIO: ID ventana: 26
+I (18238) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (18238) OSCILOSCOPIO: Captura CH1: 64/64
+I (18238) OSCILOSCOPIO: Captura CH2: 64/64
+I (18238) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (18238) OSCILOSCOPIO: Tiempo total de ventana: 63881 us
+I (18238) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.86 Sa/s
+I (18238) OSCILOSCOPIO: Error estimado: 0.19 %
+I (18238) OSCILOSCOPIO: Errores de lectura: 0
+I (18238) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (18238) OSCILOSCOPIO: Ultima muestra CH2: 0.015 V
+I (18238) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (18798) OSCILOSCOPIO: ================================
+I (18798) OSCILOSCOPIO: ID ventana: 27
+I (18798) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (18798) OSCILOSCOPIO: Captura CH1: 64/64
+I (18798) OSCILOSCOPIO: Captura CH2: 64/64
+I (18798) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (18798) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (18798) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (18798) OSCILOSCOPIO: Error estimado: 0.19 %
+I (18798) OSCILOSCOPIO: Errores de lectura: 0
+I (18798) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (18798) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (18798) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (19358) OSCILOSCOPIO: ================================
+I (19358) OSCILOSCOPIO: ID ventana: 28
+I (19358) OSCILOSCOPIO: Frecuencia configurada: 1000 Sa/s
+I (19358) OSCILOSCOPIO: Captura CH1: 64/64
+I (19358) OSCILOSCOPIO: Captura CH2: 64/64
+I (19358) OSCILOSCOPIO: Periodo objetivo: 1000 us
+I (19358) OSCILOSCOPIO: Tiempo total de ventana: 63880 us
+I (19358) OSCILOSCOPIO: Frecuencia efectiva estimada: 1001.88 Sa/s
+I (19358) OSCILOSCOPIO: Error estimado: 0.19 %
+I (19358) OSCILOSCOPIO: Errores de lectura: 0
+I (19358) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (19358) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (19358) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (19858) OSCILOSCOPIO: Frecuencia seleccionada: 10000 Sa/s
+I (19858) OSCILOSCOPIO: Frecuencia ADC agregada: 20000 Sa/s
+I (19858) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (19858) OSCILOSCOPIO: ================================
+I (19858) OSCILOSCOPIO: ID ventana: 29
+I (19858) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (19858) OSCILOSCOPIO: Captura CH1: 64/64
+I (19858) OSCILOSCOPIO: Captura CH2: 64/64
+I (19858) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (19858) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (19858) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (19858) OSCILOSCOPIO: Error estimado: 1.63 %
+I (19858) OSCILOSCOPIO: Errores de lectura: 0
+I (19858) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (19858) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (19858) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (19858) OSCILOSCOPIO: INICIO VENTANA ADC
+I (19858) OSCILOSCOPIO: Muestra 01 | CH1: 81 | CH2: 81
+I (19858) OSCILOSCOPIO: Muestra 02 | CH1: 81 | CH2: 65
+I (19858) OSCILOSCOPIO: Muestra 03 | CH1: 80 | CH2: 65
+I (19858) OSCILOSCOPIO: Muestra 04 | CH1: 65 | CH2: 64
+I (19858) OSCILOSCOPIO: Muestra 05 | CH1: 64 | CH2: 64
+I (19858) OSCILOSCOPIO: Muestra 06 | CH1: 81 | CH2: 65
+I (19858) OSCILOSCOPIO: Muestra 07 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 08 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 09 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 10 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 11 | CH1: 64 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 12 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 13 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 14 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 15 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 16 | CH1: 80 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 17 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 18 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 19 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 20 | CH1: 80 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 21 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 22 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 23 | CH1: 81 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 24 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 25 | CH1: 80 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 26 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 27 | CH1: 80 | CH2: 81
+I (19868) OSCILOSCOPIO: Muestra 28 | CH1: 64 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 29 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 30 | CH1: 80 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 31 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 32 | CH1: 80 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 33 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 34 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 35 | CH1: 64 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 36 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 37 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 38 | CH1: 80 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 39 | CH1: 80 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 40 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 41 | CH1: 81 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 42 | CH1: 80 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 43 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 44 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 45 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 46 | CH1: 80 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 47 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 48 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 49 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 50 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 51 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 52 | CH1: 64 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 53 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 54 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 55 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 56 | CH1: 65 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 57 | CH1: 65 | CH2: 64
+I (19868) OSCILOSCOPIO: Muestra 58 | CH1: 81 | CH2: 65
+I (19868) OSCILOSCOPIO: Muestra 59 | CH1: 64 | CH2: 64
+I (19878) OSCILOSCOPIO: Muestra 60 | CH1: 65 | CH2: 64
+I (19878) OSCILOSCOPIO: Muestra 61 | CH1: 64 | CH2: 64
+I (19878) OSCILOSCOPIO: Muestra 62 | CH1: 64 | CH2: 64
+I (19878) OSCILOSCOPIO: Muestra 63 | CH1: 65 | CH2: 65
+I (19878) OSCILOSCOPIO: Muestra 64 | CH1: 64 | CH2: 64
+I (19878) OSCILOSCOPIO: FIN VENTANA ADC
+I (20378) OSCILOSCOPIO: ================================
+I (20378) OSCILOSCOPIO: ID ventana: 30
+I (20378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (20378) OSCILOSCOPIO: Captura CH1: 64/64
+I (20378) OSCILOSCOPIO: Captura CH2: 64/64
+I (20378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (20378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (20378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (20378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (20378) OSCILOSCOPIO: Errores de lectura: 0
+I (20378) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (20378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (20378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (20878) OSCILOSCOPIO: ================================
+I (20878) OSCILOSCOPIO: ID ventana: 31
+I (20878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (20878) OSCILOSCOPIO: Captura CH1: 64/64
+I (20878) OSCILOSCOPIO: Captura CH2: 64/64
+I (20878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (20878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (20878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (20878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (20878) OSCILOSCOPIO: Errores de lectura: 0
+I (20878) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (20878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (20878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (21378) OSCILOSCOPIO: ================================
+I (21378) OSCILOSCOPIO: ID ventana: 32
+I (21378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (21378) OSCILOSCOPIO: Captura CH1: 64/64
+I (21378) OSCILOSCOPIO: Captura CH2: 64/64
+I (21378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (21378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (21378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (21378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (21378) OSCILOSCOPIO: Errores de lectura: 0
+I (21378) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (21378) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (21378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (21878) OSCILOSCOPIO: ================================
+I (21878) OSCILOSCOPIO: ID ventana: 33
+I (21878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (21878) OSCILOSCOPIO: Captura CH1: 64/64
+I (21878) OSCILOSCOPIO: Captura CH2: 64/64
+I (21878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (21878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (21878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (21878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (21878) OSCILOSCOPIO: Errores de lectura: 0
+I (21878) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (21878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (21878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (22378) OSCILOSCOPIO: ================================
+I (22378) OSCILOSCOPIO: ID ventana: 34
+I (22378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (22378) OSCILOSCOPIO: Captura CH1: 64/64
+I (22378) OSCILOSCOPIO: Captura CH2: 64/64
+I (22378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (22378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (22378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (22378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (22378) OSCILOSCOPIO: Errores de lectura: 0
+I (22378) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (22378) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (22378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (22878) OSCILOSCOPIO: ================================
+I (22878) OSCILOSCOPIO: ID ventana: 35
+I (22878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (22878) OSCILOSCOPIO: Captura CH1: 64/64
+I (22878) OSCILOSCOPIO: Captura CH2: 64/64
+I (22878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (22878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (22878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (22878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (22878) OSCILOSCOPIO: Errores de lectura: 0
+I (22878) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (22878) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (22878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (23378) OSCILOSCOPIO: ================================
+I (23378) OSCILOSCOPIO: ID ventana: 36
+I (23378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (23378) OSCILOSCOPIO: Captura CH1: 64/64
+I (23378) OSCILOSCOPIO: Captura CH2: 64/64
+I (23378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (23378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (23378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (23378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (23378) OSCILOSCOPIO: Errores de lectura: 0
+I (23378) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (23378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (23378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (23878) OSCILOSCOPIO: ================================
+I (23878) OSCILOSCOPIO: ID ventana: 37
+I (23878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (23878) OSCILOSCOPIO: Captura CH1: 64/64
+I (23878) OSCILOSCOPIO: Captura CH2: 64/64
+I (23878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (23878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (23878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (23878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (23878) OSCILOSCOPIO: Errores de lectura: 0
+I (23878) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (23878) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (23878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (24378) OSCILOSCOPIO: ================================
+I (24378) OSCILOSCOPIO: ID ventana: 38
+I (24378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (24378) OSCILOSCOPIO: Captura CH1: 64/64
+I (24378) OSCILOSCOPIO: Captura CH2: 64/64
+I (24378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (24378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (24378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (24378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (24378) OSCILOSCOPIO: Errores de lectura: 0
+I (24378) OSCILOSCOPIO: Ultima muestra CH1: 0.031 V
+I (24378) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (24378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (24878) OSCILOSCOPIO: ================================
+I (24878) OSCILOSCOPIO: ID ventana: 39
+I (24878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (24878) OSCILOSCOPIO: Captura CH1: 64/64
+I (24878) OSCILOSCOPIO: Captura CH2: 64/64
+I (24878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (24878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (24878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (24878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (24878) OSCILOSCOPIO: Errores de lectura: 0
+I (24878) OSCILOSCOPIO: Ultima muestra CH1: 0.032 V
+I (24878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (24878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (25378) OSCILOSCOPIO: ================================
+I (25378) OSCILOSCOPIO: ID ventana: 40
+I (25378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (25378) OSCILOSCOPIO: Captura CH1: 64/64
+I (25378) OSCILOSCOPIO: Captura CH2: 64/64
+I (25378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (25378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (25378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (25378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (25378) OSCILOSCOPIO: Errores de lectura: 0
+I (25378) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (25378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (25378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (25878) OSCILOSCOPIO: ================================
+I (25878) OSCILOSCOPIO: ID ventana: 41
+I (25878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (25878) OSCILOSCOPIO: Captura CH1: 64/64
+I (25878) OSCILOSCOPIO: Captura CH2: 64/64
+I (25878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (25878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (25878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (25878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (25878) OSCILOSCOPIO: Errores de lectura: 0
+I (25878) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (25878) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (25878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (26378) OSCILOSCOPIO: ================================
+I (26378) OSCILOSCOPIO: ID ventana: 42
+I (26378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (26378) OSCILOSCOPIO: Captura CH1: 64/64
+I (26378) OSCILOSCOPIO: Captura CH2: 64/64
+I (26378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (26378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (26378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (26378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (26378) OSCILOSCOPIO: Errores de lectura: 0
+I (26378) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (26378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (26378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (26878) OSCILOSCOPIO: ================================
+I (26878) OSCILOSCOPIO: ID ventana: 43
+I (26878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (26878) OSCILOSCOPIO: Captura CH1: 64/64
+I (26878) OSCILOSCOPIO: Captura CH2: 64/64
+I (26878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (26878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (26878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (26878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (26878) OSCILOSCOPIO: Errores de lectura: 0
+I (26878) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (26878) OSCILOSCOPIO: Ultima muestra CH2: 0.031 V
+I (26878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (27378) OSCILOSCOPIO: ================================
+I (27378) OSCILOSCOPIO: ID ventana: 44
+I (27378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (27378) OSCILOSCOPIO: Captura CH1: 64/64
+I (27378) OSCILOSCOPIO: Captura CH2: 64/64
+I (27378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (27378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (27378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (27378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (27378) OSCILOSCOPIO: Errores de lectura: 0
+I (27378) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (27378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (27378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (27878) OSCILOSCOPIO: ================================
+I (27878) OSCILOSCOPIO: ID ventana: 45
+I (27878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (27878) OSCILOSCOPIO: Captura CH1: 64/64
+I (27878) OSCILOSCOPIO: Captura CH2: 64/64
+I (27878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (27878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (27878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (27878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (27878) OSCILOSCOPIO: Errores de lectura: 0
+I (27878) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (27878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (27878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (28378) OSCILOSCOPIO: ================================
+I (28378) OSCILOSCOPIO: ID ventana: 46
+I (28378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (28378) OSCILOSCOPIO: Captura CH1: 64/64
+I (28378) OSCILOSCOPIO: Captura CH2: 64/64
+I (28378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (28378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (28378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (28378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (28378) OSCILOSCOPIO: Errores de lectura: 0
+I (28378) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (28378) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (28378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (28878) OSCILOSCOPIO: ================================
+I (28878) OSCILOSCOPIO: ID ventana: 47
+I (28878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (28878) OSCILOSCOPIO: Captura CH1: 64/64
+I (28878) OSCILOSCOPIO: Captura CH2: 64/64
+I (28878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (28878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (28878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (28878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (28878) OSCILOSCOPIO: Errores de lectura: 0
+I (28878) OSCILOSCOPIO: Ultima muestra CH1: 0.046 V
+I (28878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (28878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (29378) OSCILOSCOPIO: ================================
+I (29378) OSCILOSCOPIO: ID ventana: 48
+I (29378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (29378) OSCILOSCOPIO: Captura CH1: 64/64
+I (29378) OSCILOSCOPIO: Captura CH2: 64/64
+I (29378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (29378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (29378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (29378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (29378) OSCILOSCOPIO: Errores de lectura: 0
+I (29378) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (29378) OSCILOSCOPIO: Ultima muestra CH2: 0.046 V
+I (29378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (29878) OSCILOSCOPIO: ================================
+I (29878) OSCILOSCOPIO: ID ventana: 49
+I (29878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (29878) OSCILOSCOPIO: Captura CH1: 64/64
+I (29878) OSCILOSCOPIO: Captura CH2: 64/64
+I (29878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (29878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (29878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (29878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (29878) OSCILOSCOPIO: Errores de lectura: 0
+I (29878) OSCILOSCOPIO: Ultima muestra CH1: 0.047 V
+I (29878) OSCILOSCOPIO: Ultima muestra CH2: 0.032 V
+I (29878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (30378) OSCILOSCOPIO: ================================
+I (30378) OSCILOSCOPIO: ID ventana: 50
+I (30378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (30378) OSCILOSCOPIO: Captura CH1: 64/64
+I (30378) OSCILOSCOPIO: Captura CH2: 64/64
+I (30378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (30378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (30378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (30378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (30378) OSCILOSCOPIO: Errores de lectura: 0
+I (30378) OSCILOSCOPIO: Ultima muestra CH1: 1.031 V
+I (30378) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (30378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (30878) OSCILOSCOPIO: ================================
+I (30878) OSCILOSCOPIO: ID ventana: 51
+I (30878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (30878) OSCILOSCOPIO: Captura CH1: 64/64
+I (30878) OSCILOSCOPIO: Captura CH2: 64/64
+I (30878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (30878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (30878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (30878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (30878) OSCILOSCOPIO: Errores de lectura: 0
+I (30878) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (30878) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (30878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (31378) OSCILOSCOPIO: ================================
+I (31378) OSCILOSCOPIO: ID ventana: 52
+I (31378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (31378) OSCILOSCOPIO: Captura CH1: 64/64
+I (31378) OSCILOSCOPIO: Captura CH2: 64/64
+I (31378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (31378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (31378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (31378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (31378) OSCILOSCOPIO: Errores de lectura: 0
+I (31378) OSCILOSCOPIO: Ultima muestra CH1: 1.047 V
+I (31378) OSCILOSCOPIO: Ultima muestra CH2: 1.032 V
+I (31378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (31878) OSCILOSCOPIO: ================================
+I (31878) OSCILOSCOPIO: ID ventana: 53
+I (31878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (31878) OSCILOSCOPIO: Captura CH1: 64/64
+I (31878) OSCILOSCOPIO: Captura CH2: 64/64
+I (31878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (31878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (31878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (31878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (31878) OSCILOSCOPIO: Errores de lectura: 0
+I (31878) OSCILOSCOPIO: Ultima muestra CH1: 1.031 V
+I (31878) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (31878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (32378) OSCILOSCOPIO: ================================
+I (32378) OSCILOSCOPIO: ID ventana: 54
+I (32378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (32378) OSCILOSCOPIO: Captura CH1: 64/64
+I (32378) OSCILOSCOPIO: Captura CH2: 64/64
+I (32378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (32378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (32378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (32378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (32378) OSCILOSCOPIO: Errores de lectura: 0
+I (32378) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (32378) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (32378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (32878) OSCILOSCOPIO: ================================
+I (32878) OSCILOSCOPIO: ID ventana: 55
+I (32878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (32878) OSCILOSCOPIO: Captura CH1: 64/64
+I (32878) OSCILOSCOPIO: Captura CH2: 64/64
+I (32878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (32878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (32878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (32878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (32878) OSCILOSCOPIO: Errores de lectura: 0
+I (32878) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (32878) OSCILOSCOPIO: Ultima muestra CH2: 1.032 V
+I (32878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (33378) OSCILOSCOPIO: ================================
+I (33378) OSCILOSCOPIO: ID ventana: 56
+I (33378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (33378) OSCILOSCOPIO: Captura CH1: 64/64
+I (33378) OSCILOSCOPIO: Captura CH2: 64/64
+I (33378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (33378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (33378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (33378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (33378) OSCILOSCOPIO: Errores de lectura: 0
+I (33378) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (33378) OSCILOSCOPIO: Ultima muestra CH2: 1.032 V
+I (33378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (33878) OSCILOSCOPIO: ================================
+I (33878) OSCILOSCOPIO: ID ventana: 57
+I (33878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (33878) OSCILOSCOPIO: Captura CH1: 64/64
+I (33878) OSCILOSCOPIO: Captura CH2: 64/64
+I (33878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (33878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (33878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (33878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (33878) OSCILOSCOPIO: Errores de lectura: 0
+I (33878) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (33878) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (33878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (34378) OSCILOSCOPIO: ================================
+I (34378) OSCILOSCOPIO: ID ventana: 58
+I (34378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (34378) OSCILOSCOPIO: Captura CH1: 64/64
+I (34378) OSCILOSCOPIO: Captura CH2: 64/64
+I (34378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (34378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (34378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (34378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (34378) OSCILOSCOPIO: Errores de lectura: 0
+I (34378) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (34378) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (34378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (34878) OSCILOSCOPIO: ================================
+I (34878) OSCILOSCOPIO: ID ventana: 59
+I (34878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (34878) OSCILOSCOPIO: Captura CH1: 64/64
+I (34878) OSCILOSCOPIO: Captura CH2: 64/64
+I (34878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (34878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (34878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (34878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (34878) OSCILOSCOPIO: Errores de lectura: 0
+I (34878) OSCILOSCOPIO: Ultima muestra CH1: 1.047 V
+I (34878) OSCILOSCOPIO: Ultima muestra CH2: 1.032 V
+I (34878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (35378) OSCILOSCOPIO: ================================
+I (35378) OSCILOSCOPIO: ID ventana: 60
+I (35378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (35378) OSCILOSCOPIO: Captura CH1: 64/64
+I (35378) OSCILOSCOPIO: Captura CH2: 64/64
+I (35378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (35378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (35378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (35378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (35378) OSCILOSCOPIO: Errores de lectura: 0
+I (35378) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (35378) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (35378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (35878) OSCILOSCOPIO: ================================
+I (35878) OSCILOSCOPIO: ID ventana: 61
+I (35878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (35878) OSCILOSCOPIO: Captura CH1: 64/64
+I (35878) OSCILOSCOPIO: Captura CH2: 64/64
+I (35878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (35878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (35878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (35878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (35878) OSCILOSCOPIO: Errores de lectura: 0
+I (35878) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (35878) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (35878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (36378) OSCILOSCOPIO: ================================
+I (36378) OSCILOSCOPIO: ID ventana: 62
+I (36378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (36378) OSCILOSCOPIO: Captura CH1: 64/64
+I (36378) OSCILOSCOPIO: Captura CH2: 64/64
+I (36378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (36378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (36378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (36378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (36378) OSCILOSCOPIO: Errores de lectura: 0
+I (36378) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (36378) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (36378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (36878) OSCILOSCOPIO: ================================
+I (36878) OSCILOSCOPIO: ID ventana: 63
+I (36878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (36878) OSCILOSCOPIO: Captura CH1: 64/64
+I (36878) OSCILOSCOPIO: Captura CH2: 64/64
+I (36878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (36878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (36878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (36878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (36878) OSCILOSCOPIO: Errores de lectura: 0
+I (36878) OSCILOSCOPIO: Ultima muestra CH1: 1.031 V
+I (36878) OSCILOSCOPIO: Ultima muestra CH2: 1.031 V
+I (36878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (37378) OSCILOSCOPIO: ================================
+I (37378) OSCILOSCOPIO: ID ventana: 64
+I (37378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (37378) OSCILOSCOPIO: Captura CH1: 64/64
+I (37378) OSCILOSCOPIO: Captura CH2: 64/64
+I (37378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (37378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (37378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (37378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (37378) OSCILOSCOPIO: Errores de lectura: 0
+I (37378) OSCILOSCOPIO: Ultima muestra CH1: 1.047 V
+I (37378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (37378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (37878) OSCILOSCOPIO: ================================
+I (37878) OSCILOSCOPIO: ID ventana: 65
+I (37878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (37878) OSCILOSCOPIO: Captura CH1: 64/64
+I (37878) OSCILOSCOPIO: Captura CH2: 64/64
+I (37878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (37878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (37878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (37878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (37878) OSCILOSCOPIO: Errores de lectura: 0
+I (37878) OSCILOSCOPIO: Ultima muestra CH1: 1.031 V
+I (37878) OSCILOSCOPIO: Ultima muestra CH2: 3.015 V
+I (37878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (38378) OSCILOSCOPIO: ================================
+I (38378) OSCILOSCOPIO: ID ventana: 66
+I (38378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (38378) OSCILOSCOPIO: Captura CH1: 64/64
+I (38378) OSCILOSCOPIO: Captura CH2: 64/64
+I (38378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (38378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (38378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (38378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (38378) OSCILOSCOPIO: Errores de lectura: 0
+I (38378) OSCILOSCOPIO: Ultima muestra CH1: 1.031 V
+I (38378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (38378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (38878) OSCILOSCOPIO: ================================
+I (38878) OSCILOSCOPIO: ID ventana: 67
+I (38878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (38878) OSCILOSCOPIO: Captura CH1: 64/64
+I (38878) OSCILOSCOPIO: Captura CH2: 64/64
+I (38878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (38878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (38878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (38878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (38878) OSCILOSCOPIO: Errores de lectura: 0
+I (38878) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (38878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (38878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (39378) OSCILOSCOPIO: ================================
+I (39378) OSCILOSCOPIO: ID ventana: 68
+I (39378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (39378) OSCILOSCOPIO: Captura CH1: 64/64
+I (39378) OSCILOSCOPIO: Captura CH2: 64/64
+I (39378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (39378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (39378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (39378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (39378) OSCILOSCOPIO: Errores de lectura: 0
+I (39378) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (39378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (39378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (39878) OSCILOSCOPIO: ================================
+I (39878) OSCILOSCOPIO: ID ventana: 69
+I (39878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (39878) OSCILOSCOPIO: Captura CH1: 64/64
+I (39878) OSCILOSCOPIO: Captura CH2: 64/64
+I (39878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (39878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (39878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (39878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (39878) OSCILOSCOPIO: Errores de lectura: 0
+I (39878) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (39878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (39878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (40378) OSCILOSCOPIO: ================================
+I (40378) OSCILOSCOPIO: ID ventana: 70
+I (40378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (40378) OSCILOSCOPIO: Captura CH1: 64/64
+I (40378) OSCILOSCOPIO: Captura CH2: 64/64
+I (40378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (40378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (40378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (40378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (40378) OSCILOSCOPIO: Errores de lectura: 0
+I (40378) OSCILOSCOPIO: Ultima muestra CH1: 1.046 V
+I (40378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (40378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (40878) OSCILOSCOPIO: ================================
+I (40878) OSCILOSCOPIO: ID ventana: 71
+I (40878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (40878) OSCILOSCOPIO: Captura CH1: 64/64
+I (40878) OSCILOSCOPIO: Captura CH2: 64/64
+I (40878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (40878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (40878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (40878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (40878) OSCILOSCOPIO: Errores de lectura: 0
+I (40878) OSCILOSCOPIO: Ultima muestra CH1: 1.047 V
+I (40878) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+I (40878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (41378) OSCILOSCOPIO: ================================
+I (41378) OSCILOSCOPIO: ID ventana: 72
+I (41378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (41378) OSCILOSCOPIO: Captura CH1: 64/64
+I (41378) OSCILOSCOPIO: Captura CH2: 64/64
+I (41378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (41378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (41378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (41378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (41378) OSCILOSCOPIO: Errores de lectura: 0
+I (41378) OSCILOSCOPIO: Ultima muestra CH1: 1.047 V
+I (41378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (41378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (41878) OSCILOSCOPIO: ================================
+I (41878) OSCILOSCOPIO: ID ventana: 73
+I (41878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (41878) OSCILOSCOPIO: Captura CH1: 64/64
+I (41878) OSCILOSCOPIO: Captura CH2: 64/64
+I (41878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (41878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (41878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (41878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (41878) OSCILOSCOPIO: Errores de lectura: 0
+I (41878) OSCILOSCOPIO: Ultima muestra CH1: 1.032 V
+I (41878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (41878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (42378) OSCILOSCOPIO: ================================
+I (42378) OSCILOSCOPIO: ID ventana: 74
+I (42378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (42378) OSCILOSCOPIO: Captura CH1: 64/64
+I (42378) OSCILOSCOPIO: Captura CH2: 64/64
+I (42378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (42378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (42378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (42378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (42378) OSCILOSCOPIO: Errores de lectura: 0
+I (42378) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (42378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (42378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (42878) OSCILOSCOPIO: ================================
+I (42878) OSCILOSCOPIO: ID ventana: 75
+I (42878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (42878) OSCILOSCOPIO: Captura CH1: 64/64
+I (42878) OSCILOSCOPIO: Captura CH2: 64/64
+I (42878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (42878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (42878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (42878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (42878) OSCILOSCOPIO: Errores de lectura: 0
+I (42878) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (42878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (42878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (43378) OSCILOSCOPIO: ================================
+I (43378) OSCILOSCOPIO: ID ventana: 76
+I (43378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (43378) OSCILOSCOPIO: Captura CH1: 64/64
+I (43378) OSCILOSCOPIO: Captura CH2: 64/64
+I (43378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (43378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (43378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (43378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (43378) OSCILOSCOPIO: Errores de lectura: 0
+I (43378) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (43378) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+I (43378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (43878) OSCILOSCOPIO: ================================
+I (43878) OSCILOSCOPIO: ID ventana: 77
+I (43878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (43878) OSCILOSCOPIO: Captura CH1: 64/64
+I (43878) OSCILOSCOPIO: Captura CH2: 64/64
+I (43878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (43878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (43878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (43878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (43878) OSCILOSCOPIO: Errores de lectura: 0
+I (43878) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (43878) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (43878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (44378) OSCILOSCOPIO: ================================
+I (44378) OSCILOSCOPIO: ID ventana: 78
+I (44378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (44378) OSCILOSCOPIO: Captura CH1: 64/64
+I (44378) OSCILOSCOPIO: Captura CH2: 64/64
+I (44378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (44378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (44378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (44378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (44378) OSCILOSCOPIO: Errores de lectura: 0
+I (44378) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (44378) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+I (44378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (44878) OSCILOSCOPIO: ================================
+I (44878) OSCILOSCOPIO: ID ventana: 79
+I (44878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (44878) OSCILOSCOPIO: Captura CH1: 64/64
+I (44878) OSCILOSCOPIO: Captura CH2: 64/64
+I (44878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (44878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (44878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (44878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (44878) OSCILOSCOPIO: Errores de lectura: 0
+I (44878) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (44878) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+I (44878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (45378) OSCILOSCOPIO: ================================
+I (45378) OSCILOSCOPIO: ID ventana: 80
+I (45378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (45378) OSCILOSCOPIO: Captura CH1: 64/64
+I (45378) OSCILOSCOPIO: Captura CH2: 64/64
+I (45378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (45378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (45378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (45378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (45378) OSCILOSCOPIO: Errores de lectura: 0
+I (45378) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (45378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (45378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (45878) OSCILOSCOPIO: ================================
+I (45878) OSCILOSCOPIO: ID ventana: 81
+I (45878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (45878) OSCILOSCOPIO: Captura CH1: 64/64
+I (45878) OSCILOSCOPIO: Captura CH2: 64/64
+I (45878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (45878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (45878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (45878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (45878) OSCILOSCOPIO: Errores de lectura: 0
+I (45878) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (45878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (45878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (46378) OSCILOSCOPIO: ================================
+I (46378) OSCILOSCOPIO: ID ventana: 82
+I (46378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (46378) OSCILOSCOPIO: Captura CH1: 64/64
+I (46378) OSCILOSCOPIO: Captura CH2: 64/64
+I (46378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (46378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (46378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (46378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (46378) OSCILOSCOPIO: Errores de lectura: 0
+I (46378) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (46378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (46378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (46878) OSCILOSCOPIO: ================================
+I (46878) OSCILOSCOPIO: ID ventana: 83
+I (46878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (46878) OSCILOSCOPIO: Captura CH1: 64/64
+I (46878) OSCILOSCOPIO: Captura CH2: 64/64
+I (46878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (46878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (46878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (46878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (46878) OSCILOSCOPIO: Errores de lectura: 0
+I (46878) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (46878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (46878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (47378) OSCILOSCOPIO: ================================
+I (47378) OSCILOSCOPIO: ID ventana: 84
+I (47378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (47378) OSCILOSCOPIO: Captura CH1: 64/64
+I (47378) OSCILOSCOPIO: Captura CH2: 64/64
+I (47378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (47378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (47378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (47378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (47378) OSCILOSCOPIO: Errores de lectura: 0
+I (47378) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (47378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (47378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (47878) OSCILOSCOPIO: ================================
+I (47878) OSCILOSCOPIO: ID ventana: 85
+I (47878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (47878) OSCILOSCOPIO: Captura CH1: 64/64
+I (47878) OSCILOSCOPIO: Captura CH2: 64/64
+I (47878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (47878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (47878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (47878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (47878) OSCILOSCOPIO: Errores de lectura: 0
+I (47878) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (47878) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (47878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (48378) OSCILOSCOPIO: ================================
+I (48378) OSCILOSCOPIO: ID ventana: 86
+I (48378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (48378) OSCILOSCOPIO: Captura CH1: 64/64
+I (48378) OSCILOSCOPIO: Captura CH2: 64/64
+I (48378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (48378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (48378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (48378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (48378) OSCILOSCOPIO: Errores de lectura: 0
+I (48378) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (48378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (48378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (48878) OSCILOSCOPIO: ================================
+I (48878) OSCILOSCOPIO: ID ventana: 87
+I (48878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (48878) OSCILOSCOPIO: Captura CH1: 64/64
+I (48878) OSCILOSCOPIO: Captura CH2: 64/64
+I (48878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (48878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (48878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (48878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (48878) OSCILOSCOPIO: Errores de lectura: 0
+I (48878) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (48878) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (48878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (49378) OSCILOSCOPIO: ================================
+I (49378) OSCILOSCOPIO: ID ventana: 88
+I (49378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (49378) OSCILOSCOPIO: Captura CH1: 64/64
+I (49378) OSCILOSCOPIO: Captura CH2: 64/64
+I (49378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (49378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (49378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (49378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (49378) OSCILOSCOPIO: Errores de lectura: 0
+I (49378) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (49378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (49378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (49878) OSCILOSCOPIO: ================================
+I (49878) OSCILOSCOPIO: ID ventana: 89
+I (49878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (49878) OSCILOSCOPIO: Captura CH1: 64/64
+I (49878) OSCILOSCOPIO: Captura CH2: 64/64
+I (49878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (49878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (49878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (49878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (49878) OSCILOSCOPIO: Errores de lectura: 0
+I (49878) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (49878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (49878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (50378) OSCILOSCOPIO: ================================
+I (50378) OSCILOSCOPIO: ID ventana: 90
+I (50378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (50378) OSCILOSCOPIO: Captura CH1: 64/64
+I (50378) OSCILOSCOPIO: Captura CH2: 64/64
+I (50378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (50378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (50378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (50378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (50378) OSCILOSCOPIO: Errores de lectura: 0
+I (50378) OSCILOSCOPIO: Ultima muestra CH1: 3.016 V
+I (50378) OSCILOSCOPIO: Ultima muestra CH2: 3.000 V
+I (50378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (50878) OSCILOSCOPIO: ================================
+I (50878) OSCILOSCOPIO: ID ventana: 91
+I (50878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (50878) OSCILOSCOPIO: Captura CH1: 64/64
+I (50878) OSCILOSCOPIO: Captura CH2: 64/64
+I (50878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (50878) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (50878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (50878) OSCILOSCOPIO: Error estimado: 1.63 %
+I (50878) OSCILOSCOPIO: Errores de lectura: 0
+I (50878) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (50878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (50878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (51378) OSCILOSCOPIO: ================================
+I (51378) OSCILOSCOPIO: ID ventana: 92
+I (51378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (51378) OSCILOSCOPIO: Captura CH1: 64/64
+I (51378) OSCILOSCOPIO: Captura CH2: 64/64
+I (51378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (51378) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (51378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (51378) OSCILOSCOPIO: Error estimado: 1.61 %
+I (51378) OSCILOSCOPIO: Errores de lectura: 0
+I (51378) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (51378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (51378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (51878) OSCILOSCOPIO: ================================
+I (51878) OSCILOSCOPIO: ID ventana: 93
+I (51878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (51878) OSCILOSCOPIO: Captura CH1: 64/64
+I (51878) OSCILOSCOPIO: Captura CH2: 64/64
+I (51878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (51878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (51878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (51878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (51878) OSCILOSCOPIO: Errores de lectura: 0
+I (51878) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (51878) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (51878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (52378) OSCILOSCOPIO: ================================
+I (52378) OSCILOSCOPIO: ID ventana: 94
+I (52378) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (52378) OSCILOSCOPIO: Captura CH1: 64/64
+I (52378) OSCILOSCOPIO: Captura CH2: 64/64
+I (52378) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (52378) OSCILOSCOPIO: Tiempo total de ventana: 6506 us
+I (52378) OSCILOSCOPIO: Frecuencia efectiva estimada: 9837.07 Sa/s
+I (52378) OSCILOSCOPIO: Error estimado: 1.63 %
+I (52378) OSCILOSCOPIO: Errores de lectura: 0
+I (52378) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (52378) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+I (52378) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (52878) OSCILOSCOPIO: ================================
+I (52878) OSCILOSCOPIO: ID ventana: 95
+I (52878) OSCILOSCOPIO: Frecuencia configurada: 10000 Sa/s
+I (52878) OSCILOSCOPIO: Captura CH1: 64/64
+I (52878) OSCILOSCOPIO: Captura CH2: 64/64
+I (52878) OSCILOSCOPIO: Periodo objetivo: 100 us
+I (52878) OSCILOSCOPIO: Tiempo total de ventana: 6505 us
+I (52878) OSCILOSCOPIO: Frecuencia efectiva estimada: 9838.59 Sa/s
+I (52878) OSCILOSCOPIO: Error estimado: 1.61 %
+I (52878) OSCILOSCOPIO: Errores de lectura: 0
+I (52878) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (52878) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+I (52878) OSCILOSCOPIO: DIAGNOSTICO: CUMPLE
+I (53378) OSCILOSCOPIO: Frecuencia seleccionada: 40000 Sa/s
+I (53378) OSCILOSCOPIO: Frecuencia ADC agregada: 80000 Sa/s
+I (53378) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (53378) OSCILOSCOPIO: ================================
+I (53378) OSCILOSCOPIO: ID ventana: 96
+I (53378) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (53378) OSCILOSCOPIO: Captura CH1: 64/64
+I (53378) OSCILOSCOPIO: Captura CH2: 64/64
+I (53378) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (53378) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (53378) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (53378) OSCILOSCOPIO: Error estimado: 6.43 %
+I (53378) OSCILOSCOPIO: Errores de lectura: 0
+I (53378) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (53378) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (53378) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (53378) OSCILOSCOPIO: INICIO VENTANA ADC
+I (53378) OSCILOSCOPIO: Muestra 01 | CH1: 3153 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 02 | CH1: 3152 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 03 | CH1: 3153 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 04 | CH1: 3153 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 05 | CH1: 3152 | CH2: 3136
+I (53378) OSCILOSCOPIO: Muestra 06 | CH1: 3152 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 07 | CH1: 3153 | CH2: 3153
+I (53378) OSCILOSCOPIO: Muestra 08 | CH1: 3152 | CH2: 3152
+I (53378) OSCILOSCOPIO: Muestra 09 | CH1: 3152 | CH2: 3152
+I (53378) OSCILOSCOPIO: Muestra 10 | CH1: 3152 | CH2: 3137
+I (53378) OSCILOSCOPIO: Muestra 11 | CH1: 3152 | CH2: 3136
+I (53378) OSCILOSCOPIO: Muestra 12 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 13 | CH1: 3153 | CH2: 3152
+I (53388) OSCILOSCOPIO: Muestra 14 | CH1: 3153 | CH2: 3152
+I (53388) OSCILOSCOPIO: Muestra 15 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 16 | CH1: 3152 | CH2: 3152
+I (53388) OSCILOSCOPIO: Muestra 17 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 18 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 19 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 20 | CH1: 3137 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 21 | CH1: 3153 | CH2: 3152
+I (53388) OSCILOSCOPIO: Muestra 22 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 23 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 24 | CH1: 3152 | CH2: 3121
+I (53388) OSCILOSCOPIO: Muestra 25 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 26 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 27 | CH1: 3137 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 28 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 29 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 30 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 31 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 32 | CH1: 3136 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 33 | CH1: 3136 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 34 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 35 | CH1: 3136 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 36 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 37 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 38 | CH1: 3137 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 39 | CH1: 3136 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 40 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 41 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 42 | CH1: 3136 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 43 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 44 | CH1: 3136 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 45 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 46 | CH1: 3152 | CH2: 3152
+I (53388) OSCILOSCOPIO: Muestra 47 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 48 | CH1: 3137 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 49 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 50 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 51 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 52 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 53 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 54 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 55 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 56 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 57 | CH1: 3136 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 58 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 59 | CH1: 3137 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 60 | CH1: 3152 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 61 | CH1: 3153 | CH2: 3136
+I (53388) OSCILOSCOPIO: Muestra 62 | CH1: 3153 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 63 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: Muestra 64 | CH1: 3152 | CH2: 3137
+I (53388) OSCILOSCOPIO: FIN VENTANA ADC
+I (53888) OSCILOSCOPIO: ================================
+I (53888) OSCILOSCOPIO: ID ventana: 97
+I (53888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (53888) OSCILOSCOPIO: Captura CH1: 64/64
+I (53888) OSCILOSCOPIO: Captura CH2: 64/64
+I (53888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (53888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (53888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (53888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (53888) OSCILOSCOPIO: Errores de lectura: 0
+I (53888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (53888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (53888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (54388) OSCILOSCOPIO: ================================
+I (54388) OSCILOSCOPIO: ID ventana: 98
+I (54388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (54388) OSCILOSCOPIO: Captura CH1: 64/64
+I (54388) OSCILOSCOPIO: Captura CH2: 64/64
+I (54388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (54388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (54388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (54388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (54388) OSCILOSCOPIO: Errores de lectura: 0
+I (54388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (54388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (54388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (54888) OSCILOSCOPIO: ================================
+I (54888) OSCILOSCOPIO: ID ventana: 99
+I (54888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (54888) OSCILOSCOPIO: Captura CH1: 64/64
+I (54888) OSCILOSCOPIO: Captura CH2: 64/64
+I (54888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (54888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (54888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (54888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (54888) OSCILOSCOPIO: Errores de lectura: 0
+I (54888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (54888) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+W (54888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (55388) OSCILOSCOPIO: ================================
+I (55388) OSCILOSCOPIO: ID ventana: 100
+I (55388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (55388) OSCILOSCOPIO: Captura CH1: 64/64
+I (55388) OSCILOSCOPIO: Captura CH2: 64/64
+I (55388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (55388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (55388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (55388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (55388) OSCILOSCOPIO: Errores de lectura: 0
+I (55388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (55388) OSCILOSCOPIO: Ultima muestra CH2: 3.047 V
+W (55388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (55888) OSCILOSCOPIO: ================================
+I (55888) OSCILOSCOPIO: ID ventana: 101
+I (55888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (55888) OSCILOSCOPIO: Captura CH1: 64/64
+I (55888) OSCILOSCOPIO: Captura CH2: 64/64
+I (55888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (55888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (55888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (55888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (55888) OSCILOSCOPIO: Errores de lectura: 0
+I (55888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (55888) OSCILOSCOPIO: Ultima muestra CH2: 3.015 V
+W (55888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (56388) OSCILOSCOPIO: ================================
+I (56388) OSCILOSCOPIO: ID ventana: 102
+I (56388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (56388) OSCILOSCOPIO: Captura CH1: 64/64
+I (56388) OSCILOSCOPIO: Captura CH2: 64/64
+I (56388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (56388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (56388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (56388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (56388) OSCILOSCOPIO: Errores de lectura: 0
+I (56388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (56388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (56388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (56888) OSCILOSCOPIO: ================================
+I (56888) OSCILOSCOPIO: ID ventana: 103
+I (56888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (56888) OSCILOSCOPIO: Captura CH1: 64/64
+I (56888) OSCILOSCOPIO: Captura CH2: 64/64
+I (56888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (56888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (56888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (56888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (56888) OSCILOSCOPIO: Errores de lectura: 0
+I (56888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (56888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (56888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (57388) OSCILOSCOPIO: ================================
+I (57388) OSCILOSCOPIO: ID ventana: 104
+I (57388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (57388) OSCILOSCOPIO: Captura CH1: 64/64
+I (57388) OSCILOSCOPIO: Captura CH2: 64/64
+I (57388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (57388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (57388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (57388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (57388) OSCILOSCOPIO: Errores de lectura: 0
+I (57388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (57388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (57388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (57888) OSCILOSCOPIO: ================================
+I (57888) OSCILOSCOPIO: ID ventana: 105
+I (57888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (57888) OSCILOSCOPIO: Captura CH1: 64/64
+I (57888) OSCILOSCOPIO: Captura CH2: 64/64
+I (57888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (57888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (57888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (57888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (57888) OSCILOSCOPIO: Errores de lectura: 0
+I (57888) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (57888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (57888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (58388) OSCILOSCOPIO: ================================
+I (58388) OSCILOSCOPIO: ID ventana: 106
+I (58388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (58388) OSCILOSCOPIO: Captura CH1: 64/64
+I (58388) OSCILOSCOPIO: Captura CH2: 64/64
+I (58388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (58388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (58388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (58388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (58388) OSCILOSCOPIO: Errores de lectura: 0
+I (58388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (58388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (58388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (58888) OSCILOSCOPIO: ================================
+I (58888) OSCILOSCOPIO: ID ventana: 107
+I (58888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (58888) OSCILOSCOPIO: Captura CH1: 64/64
+I (58888) OSCILOSCOPIO: Captura CH2: 64/64
+I (58888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (58888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (58888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (58888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (58888) OSCILOSCOPIO: Errores de lectura: 0
+I (58888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (58888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (58888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (59388) OSCILOSCOPIO: ================================
+I (59388) OSCILOSCOPIO: ID ventana: 108
+I (59388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (59388) OSCILOSCOPIO: Captura CH1: 64/64
+I (59388) OSCILOSCOPIO: Captura CH2: 64/64
+I (59388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (59388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (59388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (59388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (59388) OSCILOSCOPIO: Errores de lectura: 0
+I (59388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (59388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (59388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (59888) OSCILOSCOPIO: ================================
+I (59888) OSCILOSCOPIO: ID ventana: 109
+I (59888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (59888) OSCILOSCOPIO: Captura CH1: 64/64
+I (59888) OSCILOSCOPIO: Captura CH2: 64/64
+I (59888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (59888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (59888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (59888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (59888) OSCILOSCOPIO: Errores de lectura: 0
+I (59888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (59888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (59888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (60388) OSCILOSCOPIO: ================================
+I (60388) OSCILOSCOPIO: ID ventana: 110
+I (60388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (60388) OSCILOSCOPIO: Captura CH1: 64/64
+I (60388) OSCILOSCOPIO: Captura CH2: 64/64
+I (60388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (60388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (60388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (60388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (60388) OSCILOSCOPIO: Errores de lectura: 0
+I (60388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (60388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (60388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (60888) OSCILOSCOPIO: ================================
+I (60888) OSCILOSCOPIO: ID ventana: 111
+I (60888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (60888) OSCILOSCOPIO: Captura CH1: 64/64
+I (60888) OSCILOSCOPIO: Captura CH2: 64/64
+I (60888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (60888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (60888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (60888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (60888) OSCILOSCOPIO: Errores de lectura: 0
+I (60888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (60888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (60888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (61388) OSCILOSCOPIO: ================================
+I (61388) OSCILOSCOPIO: ID ventana: 112
+I (61388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (61388) OSCILOSCOPIO: Captura CH1: 64/64
+I (61388) OSCILOSCOPIO: Captura CH2: 64/64
+I (61388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (61388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (61388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (61388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (61388) OSCILOSCOPIO: Errores de lectura: 0
+I (61388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (61388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (61388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (61888) OSCILOSCOPIO: ================================
+I (61888) OSCILOSCOPIO: ID ventana: 113
+I (61888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (61888) OSCILOSCOPIO: Captura CH1: 64/64
+I (61888) OSCILOSCOPIO: Captura CH2: 64/64
+I (61888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (61888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (61888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (61888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (61888) OSCILOSCOPIO: Errores de lectura: 0
+I (61888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (61888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (61888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (62388) OSCILOSCOPIO: ================================
+I (62388) OSCILOSCOPIO: ID ventana: 114
+I (62388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (62388) OSCILOSCOPIO: Captura CH1: 64/64
+I (62388) OSCILOSCOPIO: Captura CH2: 64/64
+I (62388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (62388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (62388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (62388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (62388) OSCILOSCOPIO: Errores de lectura: 0
+I (62388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (62388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (62388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (62888) OSCILOSCOPIO: ================================
+I (62888) OSCILOSCOPIO: ID ventana: 115
+I (62888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (62888) OSCILOSCOPIO: Captura CH1: 64/64
+I (62888) OSCILOSCOPIO: Captura CH2: 64/64
+I (62888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (62888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (62888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (62888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (62888) OSCILOSCOPIO: Errores de lectura: 0
+I (62888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (62888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (62888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (63388) OSCILOSCOPIO: ================================
+I (63388) OSCILOSCOPIO: ID ventana: 116
+I (63388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (63388) OSCILOSCOPIO: Captura CH1: 64/64
+I (63388) OSCILOSCOPIO: Captura CH2: 64/64
+I (63388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (63388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (63388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (63388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (63388) OSCILOSCOPIO: Errores de lectura: 0
+I (63388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (63388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (63388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (63888) OSCILOSCOPIO: ================================
+I (63888) OSCILOSCOPIO: ID ventana: 117
+I (63888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (63888) OSCILOSCOPIO: Captura CH1: 64/64
+I (63888) OSCILOSCOPIO: Captura CH2: 64/64
+I (63888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (63888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (63888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (63888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (63888) OSCILOSCOPIO: Errores de lectura: 0
+I (63888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (63888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (63888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (64388) OSCILOSCOPIO: ================================
+I (64388) OSCILOSCOPIO: ID ventana: 118
+I (64388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (64388) OSCILOSCOPIO: Captura CH1: 64/64
+I (64388) OSCILOSCOPIO: Captura CH2: 64/64
+I (64388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (64388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (64388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (64388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (64388) OSCILOSCOPIO: Errores de lectura: 0
+I (64388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (64388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (64388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (64888) OSCILOSCOPIO: ================================
+I (64888) OSCILOSCOPIO: ID ventana: 119
+I (64888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (64888) OSCILOSCOPIO: Captura CH1: 64/64
+I (64888) OSCILOSCOPIO: Captura CH2: 64/64
+I (64888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (64888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (64888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (64888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (64888) OSCILOSCOPIO: Errores de lectura: 0
+I (64888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (64888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (64888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (65388) OSCILOSCOPIO: ================================
+I (65388) OSCILOSCOPIO: ID ventana: 120
+I (65388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (65388) OSCILOSCOPIO: Captura CH1: 64/64
+I (65388) OSCILOSCOPIO: Captura CH2: 64/64
+I (65388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (65388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (65388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (65388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (65388) OSCILOSCOPIO: Errores de lectura: 0
+I (65388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (65388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (65388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (65888) OSCILOSCOPIO: ================================
+I (65888) OSCILOSCOPIO: ID ventana: 121
+I (65888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (65888) OSCILOSCOPIO: Captura CH1: 64/64
+I (65888) OSCILOSCOPIO: Captura CH2: 64/64
+I (65888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (65888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (65888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (65888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (65888) OSCILOSCOPIO: Errores de lectura: 0
+I (65888) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (65888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (65888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (66388) OSCILOSCOPIO: ================================
+I (66388) OSCILOSCOPIO: ID ventana: 122
+I (66388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (66388) OSCILOSCOPIO: Captura CH1: 64/64
+I (66388) OSCILOSCOPIO: Captura CH2: 64/64
+I (66388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (66388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (66388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (66388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (66388) OSCILOSCOPIO: Errores de lectura: 0
+I (66388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (66388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (66388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (66888) OSCILOSCOPIO: ================================
+I (66888) OSCILOSCOPIO: ID ventana: 123
+I (66888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (66888) OSCILOSCOPIO: Captura CH1: 64/64
+I (66888) OSCILOSCOPIO: Captura CH2: 64/64
+I (66888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (66888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (66888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (66888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (66888) OSCILOSCOPIO: Errores de lectura: 0
+I (66888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (66888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (66888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (67388) OSCILOSCOPIO: ================================
+I (67388) OSCILOSCOPIO: ID ventana: 124
+I (67388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (67388) OSCILOSCOPIO: Captura CH1: 64/64
+I (67388) OSCILOSCOPIO: Captura CH2: 64/64
+I (67388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (67388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (67388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (67388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (67388) OSCILOSCOPIO: Errores de lectura: 0
+I (67388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (67388) OSCILOSCOPIO: Ultima muestra CH2: 3.015 V
+W (67388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (67888) OSCILOSCOPIO: ================================
+I (67888) OSCILOSCOPIO: ID ventana: 125
+I (67888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (67888) OSCILOSCOPIO: Captura CH1: 64/64
+I (67888) OSCILOSCOPIO: Captura CH2: 64/64
+I (67888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (67888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (67888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (67888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (67888) OSCILOSCOPIO: Errores de lectura: 0
+I (67888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (67888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (67888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (68388) OSCILOSCOPIO: ================================
+I (68388) OSCILOSCOPIO: ID ventana: 126
+I (68388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (68388) OSCILOSCOPIO: Captura CH1: 64/64
+I (68388) OSCILOSCOPIO: Captura CH2: 64/64
+I (68388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (68388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (68388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (68388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (68388) OSCILOSCOPIO: Errores de lectura: 0
+I (68388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (68388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (68388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (68888) OSCILOSCOPIO: ================================
+I (68888) OSCILOSCOPIO: ID ventana: 127
+I (68888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (68888) OSCILOSCOPIO: Captura CH1: 64/64
+I (68888) OSCILOSCOPIO: Captura CH2: 64/64
+I (68888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (68888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (68888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (68888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (68888) OSCILOSCOPIO: Errores de lectura: 0
+I (68888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (68888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (68888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (69388) OSCILOSCOPIO: ================================
+I (69388) OSCILOSCOPIO: ID ventana: 128
+I (69388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (69388) OSCILOSCOPIO: Captura CH1: 64/64
+I (69388) OSCILOSCOPIO: Captura CH2: 64/64
+I (69388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (69388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (69388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (69388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (69388) OSCILOSCOPIO: Errores de lectura: 0
+I (69388) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (69388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (69388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (69888) OSCILOSCOPIO: ================================
+I (69888) OSCILOSCOPIO: ID ventana: 129
+I (69888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (69888) OSCILOSCOPIO: Captura CH1: 64/64
+I (69888) OSCILOSCOPIO: Captura CH2: 64/64
+I (69888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (69888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (69888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (69888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (69888) OSCILOSCOPIO: Errores de lectura: 0
+I (69888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (69888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (69888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (70388) OSCILOSCOPIO: ================================
+I (70388) OSCILOSCOPIO: ID ventana: 130
+I (70388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (70388) OSCILOSCOPIO: Captura CH1: 64/64
+I (70388) OSCILOSCOPIO: Captura CH2: 64/64
+I (70388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (70388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (70388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (70388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (70388) OSCILOSCOPIO: Errores de lectura: 0
+I (70388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (70388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (70388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (70888) OSCILOSCOPIO: ================================
+I (70888) OSCILOSCOPIO: ID ventana: 131
+I (70888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (70888) OSCILOSCOPIO: Captura CH1: 64/64
+I (70888) OSCILOSCOPIO: Captura CH2: 64/64
+I (70888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (70888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (70888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (70888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (70888) OSCILOSCOPIO: Errores de lectura: 0
+I (70888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (70888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (70888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (71388) OSCILOSCOPIO: ================================
+I (71388) OSCILOSCOPIO: ID ventana: 132
+I (71388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (71388) OSCILOSCOPIO: Captura CH1: 64/64
+I (71388) OSCILOSCOPIO: Captura CH2: 64/64
+I (71388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (71388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (71388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (71388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (71388) OSCILOSCOPIO: Errores de lectura: 0
+I (71388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (71388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (71388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (71888) OSCILOSCOPIO: ================================
+I (71888) OSCILOSCOPIO: ID ventana: 133
+I (71888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (71888) OSCILOSCOPIO: Captura CH1: 64/64
+I (71888) OSCILOSCOPIO: Captura CH2: 64/64
+I (71888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (71888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (71888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (71888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (71888) OSCILOSCOPIO: Errores de lectura: 0
+I (71888) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (71888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (71888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (72388) OSCILOSCOPIO: ================================
+I (72388) OSCILOSCOPIO: ID ventana: 134
+I (72388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (72388) OSCILOSCOPIO: Captura CH1: 64/64
+I (72388) OSCILOSCOPIO: Captura CH2: 64/64
+I (72388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (72388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (72388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (72388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (72388) OSCILOSCOPIO: Errores de lectura: 0
+I (72388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (72388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (72388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (72888) OSCILOSCOPIO: ================================
+I (72888) OSCILOSCOPIO: ID ventana: 135
+I (72888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (72888) OSCILOSCOPIO: Captura CH1: 64/64
+I (72888) OSCILOSCOPIO: Captura CH2: 64/64
+I (72888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (72888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (72888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (72888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (72888) OSCILOSCOPIO: Errores de lectura: 0
+I (72888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (72888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (72888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (73388) OSCILOSCOPIO: ================================
+I (73388) OSCILOSCOPIO: ID ventana: 136
+I (73388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (73388) OSCILOSCOPIO: Captura CH1: 64/64
+I (73388) OSCILOSCOPIO: Captura CH2: 64/64
+I (73388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (73388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (73388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (73388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (73388) OSCILOSCOPIO: Errores de lectura: 0
+I (73388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (73388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (73388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (73888) OSCILOSCOPIO: ================================
+I (73888) OSCILOSCOPIO: ID ventana: 137
+I (73888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (73888) OSCILOSCOPIO: Captura CH1: 64/64
+I (73888) OSCILOSCOPIO: Captura CH2: 64/64
+I (73888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (73888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (73888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (73888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (73888) OSCILOSCOPIO: Errores de lectura: 0
+I (73888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (73888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (73888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (74388) OSCILOSCOPIO: ================================
+I (74388) OSCILOSCOPIO: ID ventana: 138
+I (74388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (74388) OSCILOSCOPIO: Captura CH1: 64/64
+I (74388) OSCILOSCOPIO: Captura CH2: 64/64
+I (74388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (74388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (74388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (74388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (74388) OSCILOSCOPIO: Errores de lectura: 0
+I (74388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (74388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (74388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (74888) OSCILOSCOPIO: ================================
+I (74888) OSCILOSCOPIO: ID ventana: 139
+I (74888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (74888) OSCILOSCOPIO: Captura CH1: 64/64
+I (74888) OSCILOSCOPIO: Captura CH2: 64/64
+I (74888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (74888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (74888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (74888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (74888) OSCILOSCOPIO: Errores de lectura: 0
+I (74888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (74888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (74888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (75388) OSCILOSCOPIO: ================================
+I (75388) OSCILOSCOPIO: ID ventana: 140
+I (75388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (75388) OSCILOSCOPIO: Captura CH1: 64/64
+I (75388) OSCILOSCOPIO: Captura CH2: 64/64
+I (75388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (75388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (75388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (75388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (75388) OSCILOSCOPIO: Errores de lectura: 0
+I (75388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (75388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (75388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (75888) OSCILOSCOPIO: ================================
+I (75888) OSCILOSCOPIO: ID ventana: 141
+I (75888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (75888) OSCILOSCOPIO: Captura CH1: 64/64
+I (75888) OSCILOSCOPIO: Captura CH2: 64/64
+I (75888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (75888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (75888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (75888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (75888) OSCILOSCOPIO: Errores de lectura: 0
+I (75888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (75888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (75888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (76388) OSCILOSCOPIO: ================================
+I (76388) OSCILOSCOPIO: ID ventana: 142
+I (76388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (76388) OSCILOSCOPIO: Captura CH1: 64/64
+I (76388) OSCILOSCOPIO: Captura CH2: 64/64
+I (76388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (76388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (76388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (76388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (76388) OSCILOSCOPIO: Errores de lectura: 0
+I (76388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (76388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (76388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (76888) OSCILOSCOPIO: ================================
+I (76888) OSCILOSCOPIO: ID ventana: 143
+I (76888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (76888) OSCILOSCOPIO: Captura CH1: 64/64
+I (76888) OSCILOSCOPIO: Captura CH2: 64/64
+I (76888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (76888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (76888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (76888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (76888) OSCILOSCOPIO: Errores de lectura: 0
+I (76888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (76888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (76888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (77388) OSCILOSCOPIO: ================================
+I (77388) OSCILOSCOPIO: ID ventana: 144
+I (77388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (77388) OSCILOSCOPIO: Captura CH1: 64/64
+I (77388) OSCILOSCOPIO: Captura CH2: 64/64
+I (77388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (77388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (77388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (77388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (77388) OSCILOSCOPIO: Errores de lectura: 0
+I (77388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (77388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (77388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (77888) OSCILOSCOPIO: ================================
+I (77888) OSCILOSCOPIO: ID ventana: 145
+I (77888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (77888) OSCILOSCOPIO: Captura CH1: 64/64
+I (77888) OSCILOSCOPIO: Captura CH2: 64/64
+I (77888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (77888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (77888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (77888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (77888) OSCILOSCOPIO: Errores de lectura: 0
+I (77888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (77888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (77888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (78388) OSCILOSCOPIO: ================================
+I (78388) OSCILOSCOPIO: ID ventana: 146
+I (78388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (78388) OSCILOSCOPIO: Captura CH1: 64/64
+I (78388) OSCILOSCOPIO: Captura CH2: 64/64
+I (78388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (78388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (78388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (78388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (78388) OSCILOSCOPIO: Errores de lectura: 0
+I (78388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (78388) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+W (78388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (78888) OSCILOSCOPIO: ================================
+I (78888) OSCILOSCOPIO: ID ventana: 147
+I (78888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (78888) OSCILOSCOPIO: Captura CH1: 64/64
+I (78888) OSCILOSCOPIO: Captura CH2: 64/64
+I (78888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (78888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (78888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (78888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (78888) OSCILOSCOPIO: Errores de lectura: 0
+I (78888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (78888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (78888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (79388) OSCILOSCOPIO: ================================
+I (79388) OSCILOSCOPIO: ID ventana: 148
+I (79388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (79388) OSCILOSCOPIO: Captura CH1: 64/64
+I (79388) OSCILOSCOPIO: Captura CH2: 64/64
+I (79388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (79388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (79388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (79388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (79388) OSCILOSCOPIO: Errores de lectura: 0
+I (79388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (79388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (79388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (79888) OSCILOSCOPIO: ================================
+I (79888) OSCILOSCOPIO: ID ventana: 149
+I (79888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (79888) OSCILOSCOPIO: Captura CH1: 64/64
+I (79888) OSCILOSCOPIO: Captura CH2: 64/64
+I (79888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (79888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (79888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (79888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (79888) OSCILOSCOPIO: Errores de lectura: 0
+I (79888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (79888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (79888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (80388) OSCILOSCOPIO: ================================
+I (80388) OSCILOSCOPIO: ID ventana: 150
+I (80388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (80388) OSCILOSCOPIO: Captura CH1: 64/64
+I (80388) OSCILOSCOPIO: Captura CH2: 64/64
+I (80388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (80388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (80388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (80388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (80388) OSCILOSCOPIO: Errores de lectura: 0
+I (80388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (80388) OSCILOSCOPIO: Ultima muestra CH2: 3.047 V
+W (80388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (80888) OSCILOSCOPIO: ================================
+I (80888) OSCILOSCOPIO: ID ventana: 151
+I (80888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (80888) OSCILOSCOPIO: Captura CH1: 64/64
+I (80888) OSCILOSCOPIO: Captura CH2: 64/64
+I (80888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (80888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (80888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (80888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (80888) OSCILOSCOPIO: Errores de lectura: 0
+I (80888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (80888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (80888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (81388) OSCILOSCOPIO: ================================
+I (81388) OSCILOSCOPIO: ID ventana: 152
+I (81388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (81388) OSCILOSCOPIO: Captura CH1: 64/64
+I (81388) OSCILOSCOPIO: Captura CH2: 64/64
+I (81388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (81388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (81388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (81388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (81388) OSCILOSCOPIO: Errores de lectura: 0
+I (81388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (81388) OSCILOSCOPIO: Ultima muestra CH2: 3.046 V
+W (81388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (81888) OSCILOSCOPIO: ================================
+I (81888) OSCILOSCOPIO: ID ventana: 153
+I (81888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (81888) OSCILOSCOPIO: Captura CH1: 64/64
+I (81888) OSCILOSCOPIO: Captura CH2: 64/64
+I (81888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (81888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (81888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (81888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (81888) OSCILOSCOPIO: Errores de lectura: 0
+I (81888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (81888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (81888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (82388) OSCILOSCOPIO: ================================
+I (82388) OSCILOSCOPIO: ID ventana: 154
+I (82388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (82388) OSCILOSCOPIO: Captura CH1: 64/64
+I (82388) OSCILOSCOPIO: Captura CH2: 64/64
+I (82388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (82388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (82388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (82388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (82388) OSCILOSCOPIO: Errores de lectura: 0
+I (82388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (82388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (82388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (82888) OSCILOSCOPIO: ================================
+I (82888) OSCILOSCOPIO: ID ventana: 155
+I (82888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (82888) OSCILOSCOPIO: Captura CH1: 64/64
+I (82888) OSCILOSCOPIO: Captura CH2: 64/64
+I (82888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (82888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (82888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (82888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (82888) OSCILOSCOPIO: Errores de lectura: 0
+I (82888) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (82888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (82888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (83388) OSCILOSCOPIO: ================================
+I (83388) OSCILOSCOPIO: ID ventana: 156
+I (83388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (83388) OSCILOSCOPIO: Captura CH1: 64/64
+I (83388) OSCILOSCOPIO: Captura CH2: 64/64
+I (83388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (83388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (83388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (83388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (83388) OSCILOSCOPIO: Errores de lectura: 0
+I (83388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (83388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (83388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (83888) OSCILOSCOPIO: ================================
+I (83888) OSCILOSCOPIO: ID ventana: 157
+I (83888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (83888) OSCILOSCOPIO: Captura CH1: 64/64
+I (83888) OSCILOSCOPIO: Captura CH2: 64/64
+I (83888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (83888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (83888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (83888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (83888) OSCILOSCOPIO: Errores de lectura: 0
+I (83888) OSCILOSCOPIO: Ultima muestra CH1: 3.031 V
+I (83888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (83888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (84388) OSCILOSCOPIO: ================================
+I (84388) OSCILOSCOPIO: ID ventana: 158
+I (84388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (84388) OSCILOSCOPIO: Captura CH1: 64/64
+I (84388) OSCILOSCOPIO: Captura CH2: 64/64
+I (84388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (84388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (84388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (84388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (84388) OSCILOSCOPIO: Errores de lectura: 0
+I (84388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (84388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (84388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (84888) OSCILOSCOPIO: ================================
+I (84888) OSCILOSCOPIO: ID ventana: 159
+I (84888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (84888) OSCILOSCOPIO: Captura CH1: 64/64
+I (84888) OSCILOSCOPIO: Captura CH2: 64/64
+I (84888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (84888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (84888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (84888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (84888) OSCILOSCOPIO: Errores de lectura: 0
+I (84888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (84888) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (84888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (85388) OSCILOSCOPIO: ================================
+I (85388) OSCILOSCOPIO: ID ventana: 160
+I (85388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (85388) OSCILOSCOPIO: Captura CH1: 64/64
+I (85388) OSCILOSCOPIO: Captura CH2: 64/64
+I (85388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (85388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (85388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (85388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (85388) OSCILOSCOPIO: Errores de lectura: 0
+I (85388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (85388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (85388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (85888) OSCILOSCOPIO: ================================
+I (85888) OSCILOSCOPIO: ID ventana: 161
+I (85888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (85888) OSCILOSCOPIO: Captura CH1: 64/64
+I (85888) OSCILOSCOPIO: Captura CH2: 64/64
+I (85888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (85888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (85888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (85888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (85888) OSCILOSCOPIO: Errores de lectura: 0
+I (85888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (85888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (85888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (86388) OSCILOSCOPIO: ================================
+I (86388) OSCILOSCOPIO: ID ventana: 162
+I (86388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (86388) OSCILOSCOPIO: Captura CH1: 64/64
+I (86388) OSCILOSCOPIO: Captura CH2: 64/64
+I (86388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (86388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (86388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (86388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (86388) OSCILOSCOPIO: Errores de lectura: 0
+I (86388) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (86388) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (86388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (86888) OSCILOSCOPIO: ================================
+I (86888) OSCILOSCOPIO: ID ventana: 163
+I (86888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (86888) OSCILOSCOPIO: Captura CH1: 64/64
+I (86888) OSCILOSCOPIO: Captura CH2: 64/64
+I (86888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (86888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (86888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (86888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (86888) OSCILOSCOPIO: Errores de lectura: 0
+I (86888) OSCILOSCOPIO: Ultima muestra CH1: 3.032 V
+I (86888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (86888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (87388) OSCILOSCOPIO: ================================
+I (87388) OSCILOSCOPIO: ID ventana: 164
+I (87388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (87388) OSCILOSCOPIO: Captura CH1: 64/64
+I (87388) OSCILOSCOPIO: Captura CH2: 64/64
+I (87388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (87388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (87388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (87388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (87388) OSCILOSCOPIO: Errores de lectura: 0
+I (87388) OSCILOSCOPIO: Ultima muestra CH1: 3.046 V
+I (87388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (87388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (87888) OSCILOSCOPIO: ================================
+I (87888) OSCILOSCOPIO: ID ventana: 165
+I (87888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (87888) OSCILOSCOPIO: Captura CH1: 64/64
+I (87888) OSCILOSCOPIO: Captura CH2: 64/64
+I (87888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (87888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (87888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (87888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (87888) OSCILOSCOPIO: Errores de lectura: 0
+I (87888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (87888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (87888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (88388) OSCILOSCOPIO: ================================
+I (88388) OSCILOSCOPIO: ID ventana: 166
+I (88388) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (88388) OSCILOSCOPIO: Captura CH1: 64/64
+I (88388) OSCILOSCOPIO: Captura CH2: 64/64
+I (88388) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (88388) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (88388) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (88388) OSCILOSCOPIO: Error estimado: 6.43 %
+I (88388) OSCILOSCOPIO: Errores de lectura: 0
+I (88388) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (88388) OSCILOSCOPIO: Ultima muestra CH2: 3.032 V
+W (88388) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE
+I (88888) OSCILOSCOPIO: ================================
+I (88888) OSCILOSCOPIO: ID ventana: 167
+I (88888) OSCILOSCOPIO: Frecuencia configurada: 40000 Sa/s
+I (88888) OSCILOSCOPIO: Captura CH1: 64/64
+I (88888) OSCILOSCOPIO: Captura CH2: 64/64
+I (88888) OSCILOSCOPIO: Periodo objetivo: 25 us
+I (88888) OSCILOSCOPIO: Tiempo total de ventana: 1710 us
+I (88888) OSCILOSCOPIO: Frecuencia efectiva estimada: 37426.90 Sa/s
+I (88888) OSCILOSCOPIO: Error estimado: 6.43 %
+I (88888) OSCILOSCOPIO: Errores de lectura: 0
+I (88888) OSCILOSCOPIO: Ultima muestra CH1: 3.047 V
+I (88888) OSCILOSCOPIO: Ultima muestra CH2: 3.031 V
+W (88888) OSCILOSCOPIO: DIAGNOSTICO: NO CUMPLE

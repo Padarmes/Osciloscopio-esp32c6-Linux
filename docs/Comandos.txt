@@ -1,0 +1,5 @@
+source ~/.espressif/v5.5.6/esp-idf/export.sh  -->  Acitva el ESP_IDF, que es el compilador con las herramientas necesarias.
+cd /mnt/c/Proyecto_Osciloscopio/osciloscopio_esp32c6  ----> Carpeta donde está el código.
+idf.py -p /dev/ttyACM0 flash monitor ---> Compila el programa, flashea la placa y abre el monitor.
+nano main/main.c ---> Para modificar el main del proyecto
+idf.py menuconfig ----> Se utiliza para comunicarse con la ESP con el teclado. Ruta: Component config → ESP System Settings → Channel for console output → USB Serial/JTAG Controller.
